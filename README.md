@@ -1,5 +1,4 @@
-# FlightTracker-OpenSkyAPI
-Flight tracker with Node.js and React.js, socket io
+![Screenshot](screenshot_1.png)
 
 # Server
 node app.js
