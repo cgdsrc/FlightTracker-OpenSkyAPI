@@ -1,5 +1,4 @@
-![İsim](https://i.hizliresim.com/9YQ1Gr.png)
-
+[![image](https://i.hizliresim.com/9YQ1Gr.png)](https://hizliresim.com/9YQ1Gr)
 # Server
 node app.js
 
